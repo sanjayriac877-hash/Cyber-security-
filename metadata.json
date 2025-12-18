@@ -1,0 +1,5 @@
+{
+  "name": "CyberGuard: Phishing ML Hub",
+  "description": "An interactive cybersecurity workspace for phishing URL detection using Machine Learning, featuring real-time analysis, model evaluation visualizations, and professional Python implementation guides.",
+  "requestFramePermissions": []
+}
